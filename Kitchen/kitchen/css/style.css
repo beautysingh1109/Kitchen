@@ -1,0 +1,442 @@
+/* navbar */
+.box1 {
+    background-color: rgb(190, 219, 252);
+}
+
+/* navbar */
+.logo {
+    height: 130px;
+    width: 700px;
+    margin-left: 100px;
+
+}
+
+/* navbar */
+.navbar {
+    text-decoration: none;
+
+}
+
+/* navbar */
+.navbar li {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+/* navbar */
+.navbar li a {
+    text-decoration: none;
+    padding: 20px 20px;
+    color: black;
+    font-weight: 600;
+}
+
+/* navbar */
+.navbar li :hover {
+    background-color: rgb(184, 215, 218);
+    border-radius: 20px;
+}
+
+/* navbar */
+.nv-btn {
+    border-left: solid 1px #ccc;
+
+}
+
+.button1 {
+    text-align: center;
+
+}
+
+/* navbar */
+.btn {
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+/* first box */
+.box2 {
+    background-color: rgba(0, 0, 255, 0.549);
+    color: white;
+    padding-top: 150px;
+}
+
+/* first box */
+.text1 {
+    padding-left: 120px;
+    font-weight: bolder;
+    letter-spacing: 2;
+    font-size: 60px;
+}
+
+/* first box */
+.text2 {
+    letter-spacing: 2;
+    padding-left: 120px;
+}
+
+/* first box */
+.btn1 {
+    background-color: rgba(112, 112, 245, 0.549);
+    border-radius: 15px;
+    border-color: white;
+    color: white;
+    letter-spacing: 2;
+    padding: 10px 25px;
+    font-size: 15px;
+    margin-left: 120px;
+    text-align: center;
+}
+
+/* first box */
+.box3 {
+    background-color: rgba(0, 0, 255, 0.549);
+}
+
+/* first box */
+.pic1 {
+
+    height: 450px;
+    width: 874px;
+    margin-left: -0px;
+    clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+/* first box */
+.text3 {
+    color: rgb(9, 9, 145);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+    letter-spacing: 3;
+}
+
+/* first box */
+.text4 {
+    text-align: center;
+    letter-spacing: 2;
+    font-size: 15px;
+}
+
+.box4 {
+    height: 300px;
+    padding: 10px;
+
+}
+
+/* second box */
+.box5 {
+    background-color: rgb(195, 195, 245);
+    width: 300px;
+    margin: 30px;
+}
+
+/* second box */
+.text5 {
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+}
+
+/* second box */
+.pic2 {
+    height: 400px;
+    width: 300px;
+    clip-path: polygon(0 0, 100% 0, 100% 78%, 0 90%);
+}
+
+.pic6 {
+
+    height: 400px;
+    width: 350px;
+    align-items: center;
+}
+
+.pic7 {
+
+    height: 400px;
+    width: 350px;
+    align-items: center;
+}
+/* third box */
+.box6 {
+    background-color: rgb(9, 9, 143);
+    height: 500px;
+}
+/* third box */
+.pic3 {
+    height: 500px;
+    width: 800px;
+    clip-path: polygon(0 0, 100% 0, 81% 100%, 0% 100%);
+}
+/* third box */
+.box7 {
+    height: 500px;
+    background-color: rgb(9, 9, 143);
+    color: white;
+    margin-left: -25px;
+}
+
+/* third box */
+.text6 {
+    padding-top: 160px;
+    letter-spacing: 6px;
+}
+
+/* third box */
+.text7 {
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+/* third box */
+.text8 {
+    font-size: 13px;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+/* third box */
+.text10 {
+    color: rgb(30, 30, 129);
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 37px;
+}
+
+/* third box */
+.btn2 {
+    margin-top: 20px;
+    background-color: rgb(9, 9, 143);
+    color: white;
+    border-radius: 10px;
+    padding: 5px 20px;
+    border-color: white;
+
+}
+
+.item1 {
+    padding-left: 75px;
+}
+
+.pic4 {
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(199, 199, 246);
+}
+
+.item5 {
+    background-color: rgb(199, 199, 246);
+    border: 2px solid rgb(199, 199, 246);
+    width: 300px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+.text9 {
+    color: blue;
+}
+
+.item2 {
+    padding-left: 50px;
+}
+
+.item3 {
+    padding-left: 25px;
+}
+
+.btn3 {
+    background-color: rgb(9, 9, 143);
+    border-radius: 12px;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    letter-spacing: 2px;
+    margin-left: 80px;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.text11 {
+    font-size: medium;
+}
+
+.box8 li {
+    list-style-type: none;
+    font-size: small;
+    margin-left: -20px;
+}
+
+.box9 {
+    text-decoration: none;
+    color: white;
+}
+
+.box10 {
+    padding-top: 30px;
+    font-size: small;
+    color: gainsboro;
+}
+
+.pic5 {
+    height: 50px;
+    width: 110px;
+    float: right;
+}
+
+
+ @media screen and (max-width:575px) {
+.btn {
+    margin-top: -40px;
+   margin-left: 100px;
+}
+ 
+    .box2{
+text-align: left;
+padding-top: 60px;
+padding-bottom: 60px;
+  }
+    .text1 {
+        margin: 0px;
+        padding-left: 18px;
+        padding-top: 0px;
+        font-size: 30px;
+    }
+
+    .text2 {
+        margin: 0px;
+        padding-left: 18px;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    .btn1 {
+        padding: 8px 15px;
+        font-size: 12px;
+        margin-left: 0px;
+        margin-top: 25px;
+        margin-left: 18px;
+        color: white;
+    }
+
+    .text4{
+        font-size: small;
+        text-align: left;
+        padding: 20px;
+    }
+.pic1{
+    display: none!important;
+}
+ .box5 {
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .pic3{
+display: none;
+    }
+    .box6{
+        display: none;
+        margin-right:0px;   
+    }
+.box7{
+ margin: 0px;
+ padding: 0px;
+}
+.text6{
+    padding-left: 20px;
+}
+.text7{
+    padding-left: 20px;
+    font-size:25px;
+}
+.text8{
+    padding-left: 20px;  
+}
+.btn2{
+    margin-left: 60px;    
+}
+.text10{
+    text-align: center;
+}
+.item1{
+    padding-left: 17px;
+}
+.item2{
+    margin-top: 30px;
+    padding-left: 17px;
+}
+.item3{
+    margin-top: 30px;
+    padding-left: 17px;
+}
+.item4{
+    margin-top: 30px;
+    padding-left: 17px;
+}
+.pic5{
+    float: left;
+}
+.box9{
+    margin-left: -30px;
+}
+
+}
+
+/* tablet view */
+@media (min-width:768px) and (max-width:991.98px){
+    .bo3{
+        display: none;
+    }
+    .pic1{
+        display:none;
+    }
+    .box2{
+        padding-bottom: 50px;
+}
+.btn1{
+    font-size: 20px;
+}
+.box5{
+margin-left: 150px;
+width: 400px;
+height: 550px;
+}
+.box6{
+    display: none;
+}
+.pic3{
+    display: none;
+}
+.text6{
+    text-align: center;
+}
+.text7{
+    text-align: center;
+}
+.text8{
+    text-align: left;
+    margin: 0px;
+    padding:0px;
+}
+}
+
+
+
+
+
+
+
+
